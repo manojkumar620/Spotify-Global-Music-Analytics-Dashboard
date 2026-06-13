@@ -7,7 +7,8 @@ A comprehensive end-to-end data analytics project that models Spotify listening 
 ## Dashboard Preview
 
 ![Spotify Music Analytics Dashboard](Spotify_Music_Analytics_Dashboard-Preview.png)
-*Dashboard overview displaying total streams, total listening minutes, genre distributions, and user subscription demographics.*
+   
+   *Dashboard overview displaying total streams, total listening minutes, genre distributions, and user subscription demographics.*
 
 ---
 
